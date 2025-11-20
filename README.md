@@ -13,4 +13,7 @@ g++ stud_manager.cpp -o student_manager
 ```
 
 # Run the program
+
+```bash
 ./student_manager
+```
